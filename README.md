@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/kdE7FAM.png" style="width:100%;border-radius:12px;" alt="Dawar Banner"/>
+<img align="center" src="[https://i.imgur.com/kdE7FAM.png](https://images.unsplash.com/photo-1624696941338-934bf86c28b4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)" style="width:100%;border-radius:12px;" alt="Dawar Banner"/>
 
 <h2 align="center">Hey 👋, I'm Dawar</h2>
 
