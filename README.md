@@ -1,4 +1,4 @@
-<a href="https://ibb.co/qY6NBPfk"><img src="https://i.ibb.co/GQmW7bLc/mohammad-rahmani-j-TTDXi-Nve-Os-unsplash.jpg" alt="mohammad-rahmani-j-TTDXi-Nve-Os-unsplash" border="0"></a>
+<a align="center" href="https://ibb.co/qY6NBPfk"><img src="https://i.ibb.co/GQmW7bLc/mohammad-rahmani-j-TTDXi-Nve-Os-unsplash.jpg" alt="mohammad-rahmani-j-TTDXi-Nve-Os-unsplash" border="0"></a>
 
 <h2 align="center">Hey 👋, I'm Dawar</h2>
 
